@@ -228,7 +228,19 @@
       left:-76px;
       bottom:4px; 
   }
-  
+  .fa-light {
+    color:#D3D3D3;
+  }
+  .fa-li4{
+      position:absolute;
+      left:-102px;
+      bottom:4px; 
+  }
+  .fa-li5{
+      position:absolute;
+      left:-128px;
+      bottom:4px; 
+  }
   .small_desc{
     font-size: 12px;
     margin:0px;
